@@ -1,0 +1,15 @@
+.intro-banner{
+	width: 100%;
+}
+
+.intro-banner .jumbotron{
+	margin: 0px;
+	background-image: url('../../../img/cover.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding top: 0px;
+}
+
+.general-content{
+margin-top: 50px;
+}
